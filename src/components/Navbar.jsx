@@ -9,7 +9,7 @@ const Navbar = () => {
     }
 
     const openEmail = () => {
-        window.location.href = "mailto:viggo.robert@gmial.com";
+        window.location.href = "mailto:viggo.robert@gmail.com";
       };
     
 
