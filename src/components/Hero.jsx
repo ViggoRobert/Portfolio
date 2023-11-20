@@ -19,7 +19,7 @@ const Hero = () => {
             className='rounded-3xl'
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/Fp147rPn7eU?si=uvlR-07nOsv2Uo-U"
+            src="https://www.youtube.com/embed/gnICa25d58Q?si=J68Adb-jSLPp5gAd"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
